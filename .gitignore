@@ -2,3 +2,4 @@
 logs/*
 *.egg-*
 build
+__pycache__
